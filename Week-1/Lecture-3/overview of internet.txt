@@ -1,0 +1,7 @@
+In this lecture i have studied about frontend and backend and how is work
+frontend is connected with backend and backend is connected with database
+there can be more than one backend and server 
+
+for frontend we study React
+for backend we study Node ,Express
+for database we study mongoDb
