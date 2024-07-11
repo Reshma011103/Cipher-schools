@@ -1,0 +1,2 @@
+REST API will have 2 parts:
+url and http
